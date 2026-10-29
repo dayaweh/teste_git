@@ -10,3 +10,10 @@ def contatenacao(a,b):
     return a + b
 
 print(contatenacao(20,20))
+
+
+def diminuir(a,b):
+    return a - b
+
+
+diminuir(40, 20)
